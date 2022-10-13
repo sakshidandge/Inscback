@@ -1,0 +1,14 @@
+C:\Users\1000074052\source\repos\WebApplication5\WebApplication5\bin\Debug\netcoreapp2.1\Working.deps.json
+C:\Users\1000074052\source\repos\WebApplication5\WebApplication5\bin\Debug\netcoreapp2.1\Working.runtimeconfig.json
+C:\Users\1000074052\source\repos\WebApplication5\WebApplication5\bin\Debug\netcoreapp2.1\Working.runtimeconfig.dev.json
+C:\Users\1000074052\source\repos\WebApplication5\WebApplication5\bin\Debug\netcoreapp2.1\Working.dll
+C:\Users\1000074052\source\repos\WebApplication5\WebApplication5\bin\Debug\netcoreapp2.1\Working.pdb
+C:\Users\1000074052\source\repos\WebApplication5\WebApplication5\obj\Debug\netcoreapp2.1\Working.csprojAssemblyReference.cache
+C:\Users\1000074052\source\repos\WebApplication5\WebApplication5\obj\Debug\netcoreapp2.1\Working.csproj.CoreCompileInputs.cache
+C:\Users\1000074052\source\repos\WebApplication5\WebApplication5\obj\Debug\netcoreapp2.1\Working.AssemblyInfoInputs.cache
+C:\Users\1000074052\source\repos\WebApplication5\WebApplication5\obj\Debug\netcoreapp2.1\Working.AssemblyInfo.cs
+C:\Users\1000074052\source\repos\WebApplication5\WebApplication5\obj\Debug\netcoreapp2.1\Working.dll
+C:\Users\1000074052\source\repos\WebApplication5\WebApplication5\obj\Debug\netcoreapp2.1\Working.pdb
+C:\Users\1000074052\source\repos\WebApplication5\WebApplication5\obj\Debug\netcoreapp2.1\Working.RazorAssemblyInfo.cache
+C:\Users\1000074052\source\repos\WebApplication5\WebApplication5\obj\Debug\netcoreapp2.1\Working.RazorAssemblyInfo.cs
+C:\Users\1000074052\source\repos\WebApplication5\WebApplication5\obj\Debug\netcoreapp2.1\Working.RazorTargetAssemblyInfo.cache
